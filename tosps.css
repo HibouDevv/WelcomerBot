@@ -1,0 +1,14 @@
+h1, h2 {
+    font-family: Lexend;
+    text-align: center;
+}
+
+h2, p {
+    font-family: Montserrat;
+}
+
+body {
+    text-align: left;
+    background-color: #45b3e0;
+    background-image: linear-gradient(#45b3e0, #c9e9f6), fixed;
+}
