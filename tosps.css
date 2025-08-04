@@ -1,10 +1,11 @@
-h1, h2 {
+h1, h2, h3 {
     font-family: Lexend;
     text-align: center;
 }
 
-h2, p {
+p {
     font-family: Montserrat;
+    text-align: center;
 }
 
 body {
